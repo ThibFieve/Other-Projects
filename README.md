@@ -4,6 +4,11 @@
 Repository of Various projects Ranging from Chemistry\Antenna\Circuit Design\ ElectroMagnetic Machines
 
 
+
+
+
+
+
 Politecnico Di Milano, Master Student.
 
 Project: Radio Network Assessment  
@@ -22,6 +27,13 @@ Result: Using Radio Link and Network Link tool we were able to take into account
    
 
 The report and slide are available on Github (In English.Link to my Github:  https://github.com/ThibFieve/Other-Projects/tree/main/wave%20propagation-%20Network_assesment
+
+
+
+
+
+
+
 
 
 
@@ -45,6 +57,13 @@ To extract data from the satellite, we used interferometry between two of its sc
 
 
 The report and slide are available on Github (In English), Coded in MATLAB,Link to my Github:  https://github.com/ThibFieve/Other-Projects/tree/main/Radar-Imaging
+
+
+
+
+
+
+
 
 
 
